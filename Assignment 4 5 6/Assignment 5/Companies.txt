@@ -1,0 +1,14 @@
+Becton Dickinson  - Health Care
+Hologic - Health Care
+Mircosoft - Information Technology
+Qualcomm INC - Infomation Technology
+ConAgra Foods - Consumer Staples
+General Mills - Consumer  Staples
+Rock Well Collins - Industry
+TransDigm Group - Industry
+Viacomm - Consumer Discretionary
+The Walt Disney Company - Discretionary
+
+They all have a high net worth so the companies are not going to go bankrupt or
+have decline in sales by a huge percent. Then i made sure the data is not null, because
+the more Information the better decisions i make. 
